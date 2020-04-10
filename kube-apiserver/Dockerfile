@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/kube-apiserver:v1.17.4
-MAINTAINER heqingbao <qingbao.ho@gmail.com>
+MAINTAINER butonglin0926 <butonglin0926@163.com>
