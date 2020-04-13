@@ -1,2 +1,2 @@
-FROM calico/cni:v3.9.5
+FROM calico/cni:v3.11.2
 MAINTAINER heqingbao <qingbao.ho@gmail.com>
